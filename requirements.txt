@@ -1,0 +1,8 @@
+# 核心引擎仅依赖 Python 标准库，无需第三方包。
+# 以下为可选依赖：仅在运行 app/file-master 等文档处理技能时按需安装。
+
+openpyxl>=3.1
+python-docx>=1.1
+python-pptx>=0.6.23
+pypdf>=4.0
+Pillow>=10.0

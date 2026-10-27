@@ -1,0 +1,27 @@
+# 临时文件与缓存
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 运行时生成物
+bridge_log.txt
+diary_*.txt
+essay_*.txt
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 打包产物
+dist/
+build/
+*.egg-info/
